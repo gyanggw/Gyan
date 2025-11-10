@@ -117,3 +117,4 @@ int availableBooksList(int ids[], char titles[][TITLE_LEN]) {
     printf("Total available books: %d\n", count);
     return count;
 }
+
